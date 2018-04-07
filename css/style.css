@@ -1,0 +1,8 @@
+*{
+  box-sizing: border-box;
+}
+
+/* TEST to confirm .css file is linked. Delete later. */
+body {
+  background: lightyellow;
+}
